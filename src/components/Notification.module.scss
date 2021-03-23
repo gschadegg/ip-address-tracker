@@ -1,0 +1,15 @@
+
+.notification{
+    left: 50%;
+    top:0;
+    transform: translate(-50%, 0px);
+    position: absolute;
+    height: 60px;
+    width:calc(100% - 50px);
+    max-width: 1100px;
+    text-align: center;
+    color:#ffffff;
+    padding: 20px;
+    border-radius: 0 0 15px 15px;
+    background:#cc5353;
+}

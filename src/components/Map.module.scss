@@ -1,0 +1,9 @@
+.map-container {
+    height:calc(100vh - 305px);
+  }
+
+  @media(min-width: 1200px) {
+    .map-container {
+        height:calc(100vh - 255px);
+    }
+  }
