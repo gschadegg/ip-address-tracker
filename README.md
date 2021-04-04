@@ -1,6 +1,6 @@
-# Job listings with filtering solution
+# IP Address Tracker
 
-This is a solution to a Job listings with filtering challenge found online. For a live demo check out https://ip-address-tracker-seven-sandy.vercel.app/
+This is a solution to a IP Address Tracker challenge found online. For a live demo check out https://ip-address-tracker-seven-sandy.vercel.app/
 
 
 ### The challenge
